@@ -1,5 +1,3 @@
-# OIBSIP
-Machine Learning and Data Science internship tasks completed during my Oasis Infobyte internship.
 # 🚀 Oasis Infobyte – Data Science & Machine Learning Internship
 
 <p align="center">
@@ -141,9 +139,9 @@ For detailed information about the models, performance metrics, visualizations, 
 
 ## 👨‍💻 About the Author
 
-**Kesava Kumar CS**
+**Maragathavalli C S**
 
-B.Tech – Computer Science and Engineering
+M.Sc Data Science
 
 **Areas of Interest:**
 - Artificial Intelligence and Machine Learning
@@ -153,8 +151,8 @@ B.Tech – Computer Science and Engineering
 
 **Connect with me:**
 
-- GitHub: https://github.com/KesavaKumarcs
-- LinkedIn: [Add your LinkedIn profile URL]
+- GitHub: https://github.com/Maragathavallics
+- LinkedIn: https://www.linkedin.com/in/maragathavalli-c-s-a018a0335?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ## 🙏 Acknowledgement
 
